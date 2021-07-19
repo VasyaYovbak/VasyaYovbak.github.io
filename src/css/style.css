@@ -1,0 +1,27 @@
+.hed{
+    padding-top: 20px;
+}
+.header{
+   font-size: 20px;
+  margin-bottom: 60px;
+}
+.header span{
+    display: block;
+}
+.row3{
+    margin-top: 40px;
+    
+}
+.tab{
+border: 5px solid blue;
+}
+.row4 button{
+    margin: 20px 20px;
+}
+.future col-lg-3{
+    display: inline-block;
+}
+
+/* .row ,.col-lg-6{
+    border: 2px solid black;
+} */
